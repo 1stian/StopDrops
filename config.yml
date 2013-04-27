@@ -1,0 +1,4 @@
+StopDrops:
+   DisableItemDropFor:
+      - exWorld1
+      - exWorld2
